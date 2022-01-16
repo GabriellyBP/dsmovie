@@ -4,7 +4,7 @@ import { Movie } from 'types/movie';
 import { useEffect, useState } from 'react';
 import axios, { AxiosRequestConfig }from 'axios';
 import { BASE_URL } from 'utils/request';
-import { validateEmail } from 'utils/validate';
+import { validateEmail, validateEmailVazio } from 'utils/validate';
 
 type Props = {
     movieId : string;
@@ -29,10 +29,15 @@ axios.get(`${BASE_URL}/movies/${movieId}`)
 
      const email = (event.target as any).email.value;
      const score = (event.target as any).score.value;
+    
+    
+    if (!validateEmailVazio(email)){
+        return;
+    }
 
-     if (!validateEmail(email)){
-         return;
-     }
+    if (!validateEmail(email)){
+        return;
+    }
 
      const config: AxiosRequestConfig = {
         baseURL: BASE_URL,
