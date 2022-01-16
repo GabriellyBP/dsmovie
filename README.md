@@ -2,7 +2,7 @@
   <h1>GabriellyBP Movie</h1>
   <p align="center">
   <br>
-  <a href="#-Projeto utilizando as seguites tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto-utilizando-as-seguites-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;
