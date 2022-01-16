@@ -13,11 +13,11 @@
 
 <h2>🖥️ Tela principal: </h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/149644378-42824155-5aae-4ab3-b9ff-131f0d50171b.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149677781-899fbf2c-b7cd-4995-844e-34970e7592aa.PNG" width="100%">
 </p>
 <h2>🖥️ Tela de formulário: </h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/149644379-64125c3f-1d41-4559-9dc6-1b6777ccfa3f.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149677783-76d86d4b-0687-41cb-84d0-480d8296fde3.PNG" width="100%">
 </p>
 
 ## ✨ Tecnologias
