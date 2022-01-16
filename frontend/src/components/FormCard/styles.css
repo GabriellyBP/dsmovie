@@ -50,8 +50,8 @@
 }
 
 .dsmovie-btn {
-    background-color: var(--color-primary);
-    border-color: var(--color-primary);
+    background-color: #88ff009d;
+    border-color: #88ff009d;
     font-size: 14px;
     font-weight: 700;
     height: 40px;
@@ -59,11 +59,19 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+    color: #FFFFFF;
 }
 
 .dsmovie-btn:hover{
-    background-color: var(--color-primary);
-    border-color: var(--color-primary);
+    background-color: #88ff009d;
+    border-color: #88ff009d;
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+    color: #FFFFFF;
 }
