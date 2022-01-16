@@ -70,6 +70,6 @@ Você pode testar e usar o DM Movie através [desse link](https://gabriellydsmov
 
 <div align="center">
 <h3>
-👨‍💻Feito por Gabrielly Pisaneschi na Semana Dev Superior 6.0👨‍💻
+👨‍💻Feito por Gabrielly Pisaneschi na Semana Spring React, com o instrutor Nelio Alves👨‍💻
 </h3>
 </div>
