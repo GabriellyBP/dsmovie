@@ -6,14 +6,14 @@
 
 .dsmovie-score-value {
     margin: 0;
-    color: #FFBB3A;
+    color: #f7ac21;
     font-size: 16px;
     font-weight: 700;
 }
 
 .dsmovie-score-count {
     font-size: 12px;
-    color: #989898;
+    color: #000000;
     margin: 4px 0 10px 0;
 }
 
