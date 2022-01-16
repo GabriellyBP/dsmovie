@@ -2,7 +2,7 @@
   <h1>GabriellyBP Movie</h1>
   <p align="center">
   <br>
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto-utilizando-as-seguites-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;
@@ -18,11 +18,19 @@
 <h2>🖥️ Tela de formulário: </h2>
 <p align="center">
   <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149677783-76d86d4b-0687-41cb-84d0-480d8296fde3.PNG" width="100%">
+  <br/>
+  <br/>
+
+  <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149678122-cdd6bcfe-284c-4a92-a25b-a58342e361e9.PNG" width="100%">
+  <br/>
+  <br/>
+  <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149678123-af49ec7d-f995-46ef-9332-59def55cbda8.PNG" width="100%">
+  <br/>
+  <br/>
 </p>
 
-## ✨ Tecnologias
+## ✨ Projeto utilizando as seguites tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org)
 - [React Router](https://reactrouter.com)
@@ -42,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="center">
-O Dsmovie GabriellyBP é uma aplicação para avaliar filmes que lá estão catalogados, você informa seu email e informa a sua acaliação sobre o filme, logo após isso sua avaliação é armazenada em um banco de dados e é adicionada visualmente.
+O GabriellyBP Movie é uma aplicação para avaliar filmes que lá estão catalogados, você informa seu email e informa a sua acaliação sobre o filme, logo após isso sua avaliação é armazenada em um banco de dados e é adicionada visualmente.
 </p>
 <br>
 
@@ -62,6 +70,6 @@ Você pode testar e usar o DM Movie através [desse link](https://gabriellydsmov
 
 <div align="center">
 <h3>
-👨‍💻Feito por Gabrielly Pisaneschi na Semana Dev Superior 6.0👨‍💻
+👨‍💻Feito por Gabrielly Pisaneschi na Semana Spring React, com o instrutor Nelio Alves👨‍💻
 </h3>
 </div>
