@@ -20,9 +20,7 @@
   <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149677783-76d86d4b-0687-41cb-84d0-480d8296fde3.PNG" width="100%">
 </p>
 
-## ✨ Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## ✨ Projeto utilizando as seguites tecnologias
 
 - [ReactJS](https://reactjs.org)
 - [React Router](https://reactrouter.com)
@@ -42,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="center">
-O Dsmovie GabriellyBP é uma aplicação para avaliar filmes que lá estão catalogados, você informa seu email e informa a sua acaliação sobre o filme, logo após isso sua avaliação é armazenada em um banco de dados e é adicionada visualmente.
+O GabriellyBP Movie é uma aplicação para avaliar filmes que lá estão catalogados, você informa seu email e informa a sua acaliação sobre o filme, logo após isso sua avaliação é armazenada em um banco de dados e é adicionada visualmente.
 </p>
 <br>
 
