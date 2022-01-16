@@ -2,7 +2,7 @@
   <h1>GabriellyBP Movie</h1>
   <p align="center">
   <br>
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto utilizando as seguites tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;
@@ -18,9 +18,19 @@
 <h2>🖥️ Tela de formulário: </h2>
 <p align="center">
   <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149677783-76d86d4b-0687-41cb-84d0-480d8296fde3.PNG" width="100%">
+  <br/>
+  <br/>
+
+  <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149678122-cdd6bcfe-284c-4a92-a25b-a58342e361e9.PNG" width="100%">
+  <br/>
+  <br/>
+  <img alt="Happy" src="https://user-images.githubusercontent.com/97494920/149678123-af49ec7d-f995-46ef-9332-59def55cbda8.PNG" width="100%">
+  <br/>
+  <br/>
 </p>
 
 ## ✨ Projeto utilizando as seguites tecnologias
+
 
 - [ReactJS](https://reactjs.org)
 - [React Router](https://reactrouter.com)
